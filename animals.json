@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "aviary_name": "lion",
+        "animals": {
+            "lion": 5
+        }
+    },
+    {
+        "id": 2,
+        "aviary_name": "panthera",
+        "animals": {
+            "panthera": 5
+        }
+    },
+    {
+        "id": 3,
+        "aviary_name": "lynx",
+        "animals": {
+            "lynx": 8
+        }
+    },
+    {
+        "id": 4,
+        "aviary_name": "crocodile",
+        "animals": {
+            "crocodile": 5
+        }
+    },
+    {
+        "id": 5,
+        "aviary_name": "cheetah",
+        "animals": {
+            "cheetah": 6
+        }
+    },
+    {
+        "id": 6,
+        "aviary_name": "bear",
+        "animals": {
+            "bear": 5
+        }
+    },
+    {
+        "id": 7,
+        "aviary_name": "monkey",
+        "animals": {
+            "monkey": 11
+        }
+    },
+    {
+        "id": 8,
+        "aviary_name": "deer",
+        "animals": {
+            "deer": 5
+        }
+    },
+    {
+        "id": 9,
+        "aviary_name": "rabbit",
+        "animals": {
+            "rabbit": 10
+        }
+    },
+    {
+        "id": 10,
+        "aviary_name": "horse",
+        "animals": {
+            "horse": 4
+        }
+    },
+    {
+        "id": 11,
+        "aviary_name": "roe",
+        "animals": {
+            "roe": 6
+        }
+    },
+    {
+        "id": 12,
+        "aviary_name": "raccoon",
+        "animals": {
+            "raccoon": 11
+        }
+    }
+]
